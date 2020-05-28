@@ -1,5 +1,5 @@
 # EmailWrapper
-A wrapper for email module.
+A wrapper for the email module.
 
 ## Authors
 * **George Hanna** - *Initial work* - [GJHanna](https://github.com/GJHanna)
